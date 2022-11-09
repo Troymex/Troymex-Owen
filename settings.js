@@ -33,7 +33,7 @@ global.vcardowner = ['+265998837387'] // owner number
 global.ownername = "Troymex Owen" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Malawi, Lilongwe, Bunda" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -51,7 +51,7 @@ global.owner = ['+265998837387']
 global.ownertag = '+265998837387' //your tag number
 global.botname = 'Troymex Owen - Bot' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "TROYMEX -OWEN" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
